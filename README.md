@@ -1,5 +1,3 @@
-# Tugas STIMA - 13523121
-
 ## Travelling Salesman Problem (TSP) menggunakan Dynamic Programming (DP)
 
 
